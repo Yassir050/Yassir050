@@ -6,44 +6,58 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Python+Developer;Building+AI+%26+Machine+Learning+Projects;Learning%2C+Building%2C+Improving;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing Animation"/>
+</p>
+
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%"/>
 
-👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-👋 Hi, I’m Yassir Boughaba
+<p align="center">
+  <b>👋 Hi, I’m Yassir Boughaba</b>
+</p>
 
-🎓 Student at 1337
-🐍 Learning Python
-🤖 Interested in Artificial Intelligence & Machine Learning
-💻 Building practical programming projects
-🔌 Learning and working with APIs
-🗄️ Learning SQL & Databases
-🚀 Working toward becoming an AI Engineer
-🌱 Always learning, building, and improving
+<p align="center">
+  🎓 Student at 1337<br>
+  🐍 Learning Python<br>
+  🤖 Interested in Artificial Intelligence & Machine Learning<br>
+  💻 Building practical programming projects<br>
+  🔌 Learning and working with APIs<br>
+  🗄️ Learning SQL & Databases<br>
+  🚀 Working toward becoming an AI Engineer<br>
+  🌱 Always learning, building, and improving
+</p>
+
+<p align="center">
+  <code>Build</code> → <code>Learn</code> → <code>Improve</code> → <code>Repeat</code>
+</p>
 
 ⸻
 
-🧠 Currently Learning
+<h2 align="center">🧠 Currently Learning</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,sql,git,github,vscode" />
 </p>
 
-🎯 Main Focus
+<h3 align="center">🎯 Main Focus</h3>
 
-* 🐍 Python Development
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔌 APIs
-* 🗄️ SQL & Databases
-* 💻 Problem Solving
-* 🚀 Building Real Projects
+<p align="center">
+  🐍 Python Development &nbsp; • &nbsp;
+  🤖 Artificial Intelligence &nbsp; • &nbsp;
+  🧠 Machine Learning<br>
+  🔌 APIs &nbsp; • &nbsp;
+  🗄️ SQL & Databases &nbsp; • &nbsp;
+  💻 Problem Solving &nbsp; • &nbsp;
+  🚀 Real Projects
+</p>
 
 ⸻
 
-🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-🐍 Programming Languages
+<h3 align="center">🐍 Programming Languages</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
@@ -51,37 +65,43 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
 </p>
 
-🌐 Web Development
+<h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
 </p>
 
-🤖 AI & Data
+<h3 align="center">🤖 AI & Data</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
 </p>
 
-Focus: Python • Artificial Intelligence • Machine Learning • Data
+<p align="center">
+  Python • Artificial Intelligence • Machine Learning • Data
+</p>
 
-🔌 APIs
+<h3 align="center">🔌 APIs</h3>
 
-* REST APIs
-* API Integration
-* Working with JSON
-* Python API Development & Consumption
+<p align="center">
+  REST APIs &nbsp; • &nbsp;
+  API Integration &nbsp; • &nbsp;
+  JSON &nbsp; • &nbsp;
+  Python API Development & Consumption
+</p>
 
-🗄️ Database
+<h3 align="center">🗄️ Database</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
 </p>
 
-SQL • SQLite • Database Fundamentals
+<p align="center">
+  SQL • SQLite • Database Fundamentals
+</p>
 
-🔧 Tools
+<h3 align="center">🔧 Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
@@ -91,7 +111,7 @@ SQL • SQLite • Database Fundamentals
 
 ⸻
 
-📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/Yassir050">
@@ -110,7 +130,19 @@ SQL • SQLite • Database Fundamentals
 
 ⸻
 
-📈 Top Languages
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassir050&theme=react-dark&hide_border=true&area=true&custom_title=Yassir050%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yassir050&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=false&theme=radical&border_radius=10" alt="GitHub Activity Stats"/>
+</p>
+
+⸻
+
+<h2 align="center">📈 Top Languages</h2>
 
 <p align="center">
   <a href="https://github.com/Yassir050">
@@ -120,7 +152,7 @@ SQL • SQLite • Database Fundamentals
 
 ⸻
 
-🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
 
@@ -158,47 +190,85 @@ SQL • SQLite • Database Fundamentals
 
 ⸻
 
-🎓 Education
+<h2 align="center">🌐 Links</h2>
 
-1337 Coding School
+<p align="center">
+  <a href="https://github.com/Yassir050">
+    <img src="https://img.shields.io/badge/GitHub-Yassir050-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:yasserboughaba6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/212691887914">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-Currently studying at 1337, focusing on:
-
-* 💻 Programming
-* 🧠 Problem Solving
-* 🔧 Software Development
-* 🐍 C / Python
-* 🌐 Web Technologies
-* 🚀 Project-Based Learning
-
-⸻
-
-🎯 My Goals
-
-Python
-   ↓
-Advanced Programming
-   ↓
-APIs & Databases
-   ↓
-Artificial Intelligence
-   ↓
-Machine Learning
-   ↓
-AI Engineering
-
-🚀 Building. Learning. Improving.
+<p align="center">
+  🌐 Portfolio — Coming Soon
+</p>
 
 ⸻
 
-📫 Connect With Me
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+  <b>1337 Coding School</b>
+</p>
+
+<p align="center">
+  Currently studying at 1337, focusing on:
+</p>
+
+<p align="center">
+  💻 Programming &nbsp; • &nbsp;
+  🧠 Problem Solving &nbsp; • &nbsp;
+  🔧 Software Development<br>
+  🐍 C / Python &nbsp; • &nbsp;
+  🌐 Web Technologies &nbsp; • &nbsp;
+  🚀 Project-Based Learning
+</p>
+
+⸻
+
+<h2 align="center">🎯 My Goals</h2>
+
+<p align="center">
+  <code>Python</code>
+  ↓
+  <code>Advanced Programming</code>
+  ↓
+  <code>APIs & Databases</code>
+  ↓
+  <code>Artificial Intelligence</code>
+  ↓
+  <code>Machine Learning</code>
+  ↓
+  <code>AI Engineering</code>
+</p>
+
+<p align="center">
+  🚀 <b>Building. Learning. Improving.</b>
+</p>
+
+⸻
+
+<h2 align="center">⚡ Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
+</p>
+
+⸻
+
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/Yassir050">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
-  <a href="mailto:yasserboughaba6@gmail.com">
+  <a href="mailto:yasserboughbougha6@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 
@@ -208,11 +278,9 @@ AI Engineering
 </p>
 
 <p align="center">
-
-📧 yasserboughaba6@gmail.com
-
-📱 0691887914
-
+  📧 yasserboughaba6@gmail.com
+  <br>
+  📱 0691887914
 </p>
 
 ⸻
