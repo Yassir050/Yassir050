@@ -123,21 +123,37 @@ SQL • SQLite • Database Fundamentals
 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Yassir050/Smart-Student-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=Smart-Student-Predictor&theme=radical"/>
-  </a>
-  <a href="https://github.com/Yassir050/codevault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=codevault&theme=radical"/>
-  </a>
-</p>
 
-<p align="center">
+  <a href="https://github.com/Yassir050/Smart-Student-Predictor">
+    <strong>🤖 Smart Student Predictor</strong>
+  </a>
+  <br>
+  AI-powered student performance prediction project.
+
+  <br><br>
+
+  <a href="https://github.com/Yassir050/codevault">
+    <strong>💻 CodeVault</strong>
+  </a>
+  <br>
+  Programming project and code collection.
+
+  <br><br>
+
   <a href="https://github.com/Yassir050/studyflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=studyflow&theme=radical"/>
+    <strong>📚 StudyFlow</strong>
   </a>
+  <br>
+  Modern study task manager built with HTML, CSS and JavaScript.
+
+  <br><br>
+
   <a href="https://github.com/Yassir050/DrawFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=DrawFlow&theme=radical"/>
+    <strong>🎨 DrawFlow</strong>
   </a>
+  <br>
+  Drawing and creative digital project.
+
 </p>
 
 ⸻
