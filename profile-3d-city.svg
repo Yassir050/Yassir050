@@ -1,0 +1,202 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+
+    <linearGradient id="building" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a2be2"/>
+      <stop offset="100%" stop-color="#24103f"/>
+    </linearGradient>
+
+    <linearGradient id="building2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#102040"/>
+    </linearGradient>
+
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#141421"/>
+      <stop offset="50%" stop-color="#292943"/>
+      <stop offset="100%" stop-color="#141421"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+
+  <!-- Stars -->
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="80" cy="55" r="1.5"/>
+    <circle cx="160" cy="90" r="1"/>
+    <circle cx="250" cy="45" r="1.5"/>
+    <circle cx="340" cy="80" r="1"/>
+    <circle cx="460" cy="40" r="1.5"/>
+    <circle cx="580" cy="75" r="1"/>
+    <circle cx="690" cy="42" r="1.5"/>
+    <circle cx="820" cy="85" r="1"/>
+    <circle cx="940" cy="48" r="1.5"/>
+    <circle cx="1060" cy="75" r="1"/>
+    <circle cx="1140" cy="40" r="1.5"/>
+  </g>
+
+  <!-- Moon -->
+  <circle cx="1040" cy="75" r="38" fill="#ffffff" opacity="0.9"/>
+  <circle cx="1055" cy="63" r="38" fill="#302b63"/>
+
+  <!-- Back buildings -->
+  <g opacity="0.7">
+    <rect x="30" y="190" width="70" height="100" fill="#292343"/>
+    <rect x="115" y="165" width="65" height="125" fill="#352953"/>
+    <rect x="195" y="205" width="55" height="85" fill="#292343"/>
+    <rect x="875" y="185" width="70" height="105" fill="#292343"/>
+    <rect x="960" y="155" width="75" height="135" fill="#352953"/>
+    <rect x="1050" y="195" width="100" height="95" fill="#292343"/>
+  </g>
+
+  <!-- Main city -->
+  <g stroke="#ffffff" stroke-opacity="0.08">
+
+    <!-- Building 1 -->
+    <rect x="270" y="135" width="105" height="155" fill="url(#building)"/>
+    <rect x="292" y="110" width="60" height="25" fill="#5421a0"/>
+    <rect x="315" y="75" width="15" height="35" fill="#7d35d6"/>
+
+    <!-- Building 2 -->
+    <rect x="390" y="175" width="90" height="115" fill="url(#building2)"/>
+
+    <!-- Building 3 -->
+    <rect x="500" y="105" width="120" height="185" fill="url(#building)"/>
+    <rect x="535" y="70" width="50" height="35" fill="#6325b4"/>
+
+    <!-- Building 4 -->
+    <rect x="640" y="150" width="105" height="140" fill="url(#building2)"/>
+
+    <!-- Building 5 -->
+    <rect x="765" y="115" width="90" height="175" fill="url(#building)"/>
+    <rect x="790" y="82" width="40" height="33" fill="#6325b4"/>
+
+  </g>
+
+  <!-- Windows -->
+  <g fill="#00eaff" filter="url(#glow)">
+
+    <g opacity="0.9">
+      <rect x="290" y="155" width="9" height="13"/>
+      <rect x="315" y="155" width="9" height="13"/>
+      <rect x="340" y="155" width="9" height="13"/>
+
+      <rect x="290" y="185" width="9" height="13"/>
+      <rect x="315" y="185" width="9" height="13"/>
+      <rect x="340" y="185" width="9" height="13"/>
+
+      <rect x="290" y="215" width="9" height="13"/>
+      <rect x="315" y="215" width="9" height="13"/>
+      <rect x="340" y="215" width="9" height="13"/>
+
+      <rect x="290" y="245" width="9" height="13"/>
+      <rect x="315" y="245" width="9" height="13"/>
+      <rect x="340" y="245" width="9" height="13"/>
+    </g>
+
+    <g fill="#b66cff">
+      <rect x="415" y="195" width="10" height="14"/>
+      <rect x="440" y="195" width="10" height="14"/>
+      <rect x="415" y="225" width="10" height="14"/>
+      <rect x="440" y="225" width="10" height="14"/>
+      <rect x="415" y="255" width="10" height="14"/>
+      <rect x="440" y="255" width="10" height="14"/>
+    </g>
+
+    <g fill="#00eaff">
+      <rect x="525" y="130" width="12" height="16"/>
+      <rect x="550" y="130" width="12" height="16"/>
+      <rect x="575" y="130" width="12" height="16"/>
+
+      <rect x="525" y="165" width="12" height="16"/>
+      <rect x="550" y="165" width="12" height="16"/>
+      <rect x="575" y="165" width="12" height="16"/>
+
+      <rect x="525" y="200" width="12" height="16"/>
+      <rect x="550" y="200" width="12" height="16"/>
+      <rect x="575" y="200" width="12" height="16"/>
+
+      <rect x="525" y="235" width="12" height="16"/>
+      <rect x="550" y="235" width="12" height="16"/>
+      <rect x="575" y="235" width="12" height="16"/>
+    </g>
+
+    <g fill="#b66cff">
+      <rect x="665" y="175" width="11" height="15"/>
+      <rect x="690" y="175" width="11" height="15"/>
+      <rect x="715" y="175" width="11" height="15"/>
+
+      <rect x="665" y="205" width="11" height="15"/>
+      <rect x="690" y="205" width="11" height="15"/>
+      <rect x="715" y="205" width="11" height="15"/>
+
+      <rect x="665" y="235" width="11" height="15"/>
+      <rect x="690" y="235" width="11" height="15"/>
+      <rect x="715" y="235" width="11" height="15"/>
+    </g>
+
+    <g fill="#00eaff">
+      <rect x="785" y="140" width="10" height="15"/>
+      <rect x="810" y="140" width="10" height="15"/>
+      <rect x="835" y="140" width="10" height="15"/>
+
+      <rect x="785" y="172" width="10" height="15"/>
+      <rect x="810" y="172" width="10" height="15"/>
+      <rect x="835" y="172" width="10" height="15"/>
+
+      <rect x="785" y="204" width="10" height="15"/>
+      <rect x="810" y="204" width="10" height="15"/>
+      <rect x="835" y="204" width="10" height="15"/>
+
+      <rect x="785" y="236" width="10" height="15"/>
+      <rect x="810" y="236" width="10" height="15"/>
+      <rect x="835" y="236" width="10" height="15"/>
+    </g>
+
+  </g>
+
+  <!-- Ground -->
+  <polygon points="0,290 1200,290 1200,360 0,360" fill="#101018"/>
+
+  <!-- 3D roads -->
+  <polygon points="450,290 750,290 1080,360 120,360" fill="url(#road)"/>
+
+  <path d="M600 290 L600 360" stroke="#00eaff" stroke-width="3" stroke-dasharray="12 15" opacity="0.7"/>
+  <path d="M520 290 L300 360" stroke="#8a2be2" stroke-width="2" opacity="0.5"/>
+  <path d="M680 290 L900 360" stroke="#8a2be2" stroke-width="2" opacity="0.5"/>
+
+  <!-- City lights -->
+  <g fill="#00eaff" filter="url(#glow)">
+    <circle cx="245" cy="292" r="3"/>
+    <circle cx="375" cy="300" r="3"/>
+    <circle cx="850" cy="300" r="3"/>
+    <circle cx="955" cy="292" r="3"/>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="335"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        letter-spacing="5"
+        fill="#ffffff"
+        opacity="0.85">
+    YASSIR050 • AI ENGINEER
+  </text>
+
+</svg>
