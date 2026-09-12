@@ -10,7 +10,7 @@
 
 👨‍💻 About Me
 
-👋 Hi, I’m Yassir
+👋 Hi, I’m Yassir Boughaba
 
 🎓 Student at 1337
 🐍 Learning Python
@@ -123,20 +123,20 @@ SQL • SQLite • Database Fundamentals
 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/Yassir050/Smart-Student-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=Smart-Student-Predictor&theme=radical"/>
+  </a>
   <a href="https://github.com/Yassir050/codevault">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=codevault&theme=radical"/>
-  </a>
-  <a href="https://github.com/Yassir050/AI-Study-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=AI-Study-Assistant&theme=radical"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yassir050/WeatherFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=WeatherFlow&theme=radical"/>
-  </a>
   <a href="https://github.com/Yassir050/studyflow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=studyflow&theme=radical"/>
+  </a>
+  <a href="https://github.com/Yassir050/DrawFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=DrawFlow&theme=radical"/>
   </a>
 </p>
 
