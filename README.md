@@ -25,15 +25,15 @@
 🧠 My Focus
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,sql,git,github,vscode"/>
 </p>
 
 🤖 Artificial Intelligence
 
+* Artificial Intelligence
 * Machine Learning
-* AI Development
 * Python for AI
-* Data & Algorithms
+* Algorithms & Data
 * AI Projects
 
 🐍 Programming
@@ -42,7 +42,7 @@
 * C
 * JavaScript
 
-🔌 Backend & APIs
+🔌 APIs & Backend
 
 * REST APIs
 * API Integration
@@ -62,22 +62,22 @@
 🐍 Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/>
 </p>
 
 🌐 Web Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48"/>
 </p>
 
 🤖 AI & Data
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48"/>
 </p>
 
 Artificial Intelligence • Machine Learning • Python • Data
@@ -89,7 +89,7 @@ REST APIs • JSON • API Integration • Backend Development
 🗄️ Database
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48"/>
 </p>
 
 SQL • SQLite • Database Fundamentals
@@ -97,9 +97,9 @@ SQL • SQLite • Database Fundamentals
 🔧 Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48"/>
 </p>
 
 ⸻
@@ -127,45 +127,55 @@ Focused on:
 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Yassir050">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yassir050&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Yassir050 GitHub Stats"/>
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Yassir050&theme=radical&hide_border=true&cache_seconds=86400" alt="Yassir050 GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassir050&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Yassir050&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Yassir050 GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=Yassir050&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-⸻
-
-📈 Top Languages
-
 <p align="center">
-  <a href="https://github.com/Yassir050">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yassir050&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Yassir050 Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassir050&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ⸻
 
-🚀 Featured Projects
+🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/Yassir050/codevault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=codevault&theme=radical"/>
-  </a>
-  <a href="https://github.com/Yassir050/AI-Study-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=AI-Study-Assistant&theme=radical"/>
-  </a>
+  <img src="https://trophy.ryglcloud.net/?username=Yassir050&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
+
+⸻
+
+🚀 Featured Project
+
 <p align="center">
-  <a href="https://github.com/Yassir050/WeatherFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=WeatherFlow&theme=radical"/>
-  </a>
   <a href="https://github.com/Yassir050/studyflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=studyflow&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yassir050&repo=studyflow&theme=radical&border_radius=10" alt="StudyFlow"/>
   </a>
 </p>
+
+📚 StudyFlow
+
+StudyFlow is a modern, responsive and multilingual study task manager built with HTML, CSS and JavaScript.
+
+✨ Features
+
+* 📋 Study task management
+* ➕ Add tasks
+* ✅ Complete and undo tasks
+* 🗑️ Delete tasks
+* 💾 Local Storage
+* 🔎 Search and filtering
+* 📊 Progress tracking
+* 🇬🇧 English & 🇲🇦 Arabic
+* ↔️ LTR / RTL support
+* 🌙 Dark Mode
+* ☀️ Light Mode
+* 📱 Responsive design
+* ✨ UI animations and micro-interactions
+* ♿ Accessibility support
+
+🔗 View StudyFlow
 
 ⸻
 
@@ -195,18 +205,19 @@ AI Engineering
 
 <p align="center">
   <a href="https://github.com/Yassir050">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="42"/>
   </a>
   <a href="mailto:yasserboughaba6@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="42"/>
+  </a>
+  <a href="https://wa.me/212691887914">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="42"/>
   </a>
 </p>
 <p align="center">
-
-📧 yasserboughaba6@gmail.com
-
-📱 0691887914
-
+  📧 <strong>yasserboughaba6@gmail.com</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💬 <strong>WhatsApp</strong>
 </p>
 
 ⸻
@@ -217,5 +228,5 @@ AI Engineering
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg"/>
 </picture>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Animation" width="100%"/>
 </div>
